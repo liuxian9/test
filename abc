@@ -1,8 +1,0 @@
-Filesystem      Size  Used Avail Use% Mounted on
-/dev/sda1        29G  9.2G   18G  34% /
-none            4.0K     0  4.0K   0% /sys/fs/cgroup
-udev            480M  4.0K  480M   1% /dev
-tmpfs            98M  1.7M   97M   2% /run
-none            5.0M     0  5.0M   0% /run/lock
-none            490M  152K  490M   1% /run/shm
-none            100M   60K  100M   1% /run/user
